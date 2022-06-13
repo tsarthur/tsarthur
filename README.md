@@ -52,23 +52,10 @@
   </i>
 </p>
 
-<p>
-  My Github Stats:
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=tsarthur&color=brightgreen&label=Github Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/tsarthur">
-    <img src="https://img.shields.io/github/followers/tsarthur.svg?style=social&label=Follow"/>
-  </a>
-</p>
+ ## My GitHub Statistics
+ #### General statistics
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tsarthur&show_icons=true&count_private=true&hide_border=true&title_color=FEE473&icon_color=FF8623&text_color=c9d1d9&bg_color=0d1117" /> <img width="44.5%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsarthur&layout=compact&hide_border=true&title_color=FEE473&text_color=FFFFFF&bg_color=0d1117" />  <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="75" height="75" />
 
-<!-- align="right" does not seem to work for the cat gif anymore -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tsarthur&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Arthur Github Stats" />
-  &nbsp;
-  <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="75" height="75" />
-</p>
-                                                                                                                      
 <!--
 **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
