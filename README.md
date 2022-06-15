@@ -1,4 +1,4 @@
-### Hi there, I'm Arthur👋🏻
+### Hi there, I'm Arthur 👋🏻
 
 <p>I am a backend developer who likes to learn new languages, libraries and frameworks. I am currently studying: </p>
 
